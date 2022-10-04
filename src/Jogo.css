@@ -1,0 +1,120 @@
+.contentJogo{
+    width: 100%;
+    height: 100%;
+}
+.jogoDaVelha{
+    width: 100%;
+    margin: 30px auto 20px auto;
+    text-align: center;
+    color: #fff;
+}
+.sectionJogo{
+    width: 40%;
+    height: 300px;
+    margin: 70px auto 0px auto;
+    border: none;
+    position: relative;
+    background-color: #fff;
+}
+.line1{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    margin: 0px;
+}
+.jogoDaVelhaResulte{
+    width: 100%;
+    text-align: center;
+    font-size: 20pt;
+    color: #fff;
+}
+.mouse{
+    font-size: 25pt;
+}
+.mouse:hover{
+    background-color: rgb(152, 152, 245);
+}
+.Class1{
+    flex: 4;
+    height: 100px;
+    border: none;
+    border-bottom: 6px solid blue;
+    border-right: 6px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Class2{
+    flex: 4;
+    height: 100px;
+    border: none;
+    border-bottom: 6px solid blue;
+    border-right: 6px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Class3{
+    flex: 4;
+    height: 100px;
+    border: none;
+    border-bottom: 6px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Class4{
+    flex: 4;
+    height: 100px;
+    border: none;
+    border-bottom: 6px solid blue;
+    border-right: 6px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Class5{
+    flex: 4;
+    height: 100px;
+    border: none;
+    border-bottom: 6px solid blue;
+    border-right: 6px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Class6{
+    flex: 4;
+    height: 100px;
+    border: none;
+    border-bottom: 6px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Class7{
+    flex: 4;
+    height: 100px;
+    border: none;
+    border-right: 6px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Class8{
+    flex: 4;
+    height: 100px;
+    border: none;
+    border-right: 6px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Class9{
+    flex: 4;
+    height: 100px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
